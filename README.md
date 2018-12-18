@@ -1,8 +1,5 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/kegini/website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Yo Wasap Bro
+Subscribe [Kegini Studio](https://www.youtube.com/channel/UC9nPmW_qlxX-VWXK6bMA7ZQ) untuk teru pantengin updatan dari kegini yo.
 
 ### Markdown
 
@@ -35,3 +32,12 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+# Python Language
+```python
+def func():
+    print("Hello World")
+
+if __name__=="__main__":
+    func()
+```
