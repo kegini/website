@@ -41,3 +41,19 @@ def func():
 if __name__=="__main__":
     func()
 ```
+
+# Dart Language
+```dart
+import 'package:flutter/material.dart';
+
+void main() {
+  runApp(
+    Center(
+      child: Text(
+        'Hello, world!',
+        textDirection: TextDirection.ltr,
+      ),
+    ),
+  );
+}
+```
